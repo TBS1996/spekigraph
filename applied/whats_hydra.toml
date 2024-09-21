@@ -1,0 +1,4 @@
+front = "whats hydra?"
+back = "framework for making python applications with dynamic configurations and stuff"
+id = "8e9a259b-b54c-46fd-a795-0c3d4c28395c"
+dependencies = ["90590bca-41d9-4a95-96e7-f0f06a574797"]

@@ -1,0 +1,4 @@
+front = "what is sqlx?"
+back = "SQLx is a compile-time checked SQL query library for Rust. It verifies SQL queries at compile-time"
+id = "d1c58b44-f250-4537-b20a-dc59b8a28fc2"
+dependencies = ["a1431ad0-8b2b-47ba-a1d6-a6746c28bce7"]

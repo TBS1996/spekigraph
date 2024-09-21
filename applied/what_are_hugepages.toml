@@ -1,0 +1,4 @@
+front = "what are hugepages?"
+back = "linux thing to make memory partitions bigger than the default size"
+id = "93cd913a-9fc8-45d5-9e7a-7f8e2e738151"
+dependencies = ["8990f140-ab4f-413e-8d1a-bc0486b7ce1a"]

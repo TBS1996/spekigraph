@@ -1,0 +1,4 @@
+front = "what is an initialization vector?"
+back = "a random or unique input used in cryptographic algoritms to ensure identical plaintexts produce different ciphertexts"
+id = "0353942c-817f-4fdd-965f-bbaa74728855"
+dependencies = ["c5800071-7117-4e6e-b7be-37b34f8df03f"]

@@ -1,0 +1,4 @@
+front = "oauth spec calls the application?"
+back = "client"
+id = "7d4341cb-c6ec-4319-afbe-b4cc554cdc96"
+dependencies = ["9cc4af30-30fa-4022-9b1b-c75b43466513"]

@@ -1,0 +1,4 @@
+front = "which two client types does the oauth spec defie?"
+back = "confidential clients and public clients"
+id = "56e7aac9-0d63-409b-9a7b-404dbffb304f"
+dependencies = ["3b268a9e-8f8a-4112-87ce-e1de4054ff22", "9cc4af30-30fa-4022-9b1b-c75b43466513", "e1f8f403-4e68-44fc-85bd-5a83fee113cb"]

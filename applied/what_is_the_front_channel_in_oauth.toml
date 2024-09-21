@@ -1,0 +1,4 @@
+front = "what is the front channel in oauth?"
+back = "its using the address bar of the users browser to move data between the systems"
+id = "a979788e-3056-4b47-80d0-06867b443595"
+dependencies = ["9cc4af30-30fa-4022-9b1b-c75b43466513"]

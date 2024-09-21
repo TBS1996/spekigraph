@@ -1,0 +1,4 @@
+front = "what was the auth parameter state originally meant for?"
+back = "preventing cross-site request forgery attacks"
+id = "0653a568-2874-4f97-9c4d-feb391792b9d"
+dependencies = ["81ad58f8-93c4-4c05-9bb9-e60aa32994d0"]

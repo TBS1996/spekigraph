@@ -1,0 +1,4 @@
+front = "what is the client id in oauth?"
+back = "unique identifier identifying the application"
+id = "d45bca8e-1ee6-417d-adab-94899899665e"
+dependencies = ["9cc4af30-30fa-4022-9b1b-c75b43466513"]

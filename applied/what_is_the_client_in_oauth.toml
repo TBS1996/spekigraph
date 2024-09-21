@@ -1,0 +1,4 @@
+front = "what is the client in oauth?"
+back = "The Client in OAuth is the application that requests access to the resource owner's protected resources on their behalf, typical"
+id = "d0553a15-ca51-49d7-b25b-1f3b734b6c6c"
+dependencies = ["9cc4af30-30fa-4022-9b1b-c75b43466513"]

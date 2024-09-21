@@ -1,0 +1,4 @@
+front = "what is the id token in openid?"
+back = "a token that identifies a specific user"
+id = "1bd9e495-3152-447c-ad3f-0f582571d434"
+dependencies = ["f073a171-f9f0-41a7-ba8f-952b17f4877b"]

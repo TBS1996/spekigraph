@@ -1,0 +1,4 @@
+front = "what changed regarding recommendaitons of when to use pkce extension?"
+back = "now it's recommended also for confidential clients, not just public ones"
+id = "9e4982f6-38bd-4cb3-a9e9-1ced95e2ab61"
+dependencies = ["2d29b0e0-5166-4099-91f7-dbf56a1bf692", "fb37cc63-4942-4e4e-8149-dd90acd2a97f"]

@@ -1,0 +1,4 @@
+front = "what's the former name of emissary ingress?"
+back = "ambassador"
+id = "c9a82d02-680b-48a5-9e19-824b74ac7835"
+dependencies = ["19bff044-4423-4a09-aa23-6b5818dcefe8", "5629b9a4-7000-4fda-83fd-aebc5847615a"]

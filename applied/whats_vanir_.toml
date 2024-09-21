@@ -1,0 +1,4 @@
+front = "whats vanir? "
+back = " the monorepo at cognite"
+id = "86247291-914b-4fc5-9ce9-2cb19c525dae"
+dependencies = ["cd9768e8-7638-43ad-9a56-cd029be41063"]

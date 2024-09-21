@@ -1,0 +1,4 @@
+front = "what's tonic?"
+back = "a rust implementation of gRPC"
+id = "ad92e822-b206-4e2a-89e4-5ceabf9e295f"
+dependencies = ["2bde2643-f0c9-4c83-bffa-0139ad56511d", "521ddd7e-6dc5-4dcd-b061-af66fb9257db"]

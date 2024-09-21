@@ -1,0 +1,4 @@
+front = "difference between authentication and authorization?"
+back = "authenticatoin verifies a user's identity, while authorization determines what resources or actions a user can determine"
+id = "df448988-06f5-4eba-8027-25934d9459b3"
+dependencies = ["115152a2-3525-48d0-bb12-79516543d366", "a562c2e4-b441-4584-8f20-1b6b29632331"]

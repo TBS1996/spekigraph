@@ -1,0 +1,4 @@
+front = "when requesting access token, which parameters you will send?"
+back = "grant_type, code, redirect_uri, code_verifier, client_id, client_secret"
+id = "d7886464-3d85-4aa8-a051-8a47f548ed07"
+dependencies = ["dd3553cd-bd3a-42eb-a412-0e4eda9160f6"]

@@ -1,0 +1,4 @@
+front = "what year was oauth1 released?"
+back = "2007"
+id = "e036fa83-afe4-4cfd-bcc0-e787a9f03206"
+dependencies = ["9cc4af30-30fa-4022-9b1b-c75b43466513"]

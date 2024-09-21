@@ -1,0 +1,4 @@
+front = "what is a POST request?"
+back = "an http method to send data to a server to create or update resources"
+id = "aa0147d5-ca0f-4d46-9f43-5cc771ce368a"
+dependencies = ["4efb5601-9c46-4ccf-8563-071167838503"]

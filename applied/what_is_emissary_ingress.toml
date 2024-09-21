@@ -1,0 +1,4 @@
+front = "what is emissary ingress?"
+back = "an API gateway and ingress controller built on Envoy proxy"
+id = "19bff044-4423-4a09-aa23-6b5818dcefe8"
+dependencies = ["45152621-27cd-4bb0-8d42-b9a5a385da0d", "6257a428-1b17-4eab-afbe-225c681e8073"]

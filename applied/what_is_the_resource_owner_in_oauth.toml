@@ -1,0 +1,4 @@
+front = "what is the resource owner in oauth?"
+back = "The Resource Owner in OAuth is the entity (usually the user) that owns the protected resources and grants permission to access them."
+id = "d3be694c-c1e3-46a1-8904-2ebe0dc3ce15"
+dependencies = ["9cc4af30-30fa-4022-9b1b-c75b43466513"]

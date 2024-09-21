@@ -1,0 +1,4 @@
+front = "how to tell in url parameter that we are doing the authorization code flow?"
+back = "response_type=code"
+id = "224ae85d-82b9-48c5-9435-b87af4d02227"
+dependencies = ["24d7c11b-e51f-4860-8312-662cdb04fc87"]

@@ -1,0 +1,4 @@
+front = "what is a fetch request?"
+back = "an API that allows for making network requests asyncrhonsously"
+id = "3c279bde-8521-4e51-bdf3-47f61aed4326"
+dependencies = ["9620a4a0-5050-42bc-a0a4-485af836c88b"]

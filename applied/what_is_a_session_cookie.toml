@@ -1,0 +1,4 @@
+front = "what is a session cookie?"
+back = "a temporary cookie stored in the browser that keeps track of state while the user is active atthe current session"
+id = "d3bf64e2-68df-44bb-8be4-b565053de67d"
+dependencies = ["d59f2163-374e-434e-aeb3-051f47d2f495"]

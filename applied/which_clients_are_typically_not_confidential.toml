@@ -1,0 +1,4 @@
+front = "which clients are typically not confidential?"
+back = "mobile apps, single page apps etc.. because you cant store secrets without the user seeing them"
+id = "a20d2427-9067-46c7-9a09-516647876549"
+dependencies = ["fb37cc63-4942-4e4e-8149-dd90acd2a97f"]

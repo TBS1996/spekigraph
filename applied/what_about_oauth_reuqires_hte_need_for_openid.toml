@@ -1,0 +1,4 @@
+front = "what about oauth requires the need for openid?"
+back = "oauth doesnt know by itself hwo the user is, just that the user is authorized or not"
+id = "7ba0e732-9ce5-456d-bcb4-f5e6c905463c"
+dependencies = ["9cc4af30-30fa-4022-9b1b-c75b43466513", "f073a171-f9f0-41a7-ba8f-952b17f4877b"]

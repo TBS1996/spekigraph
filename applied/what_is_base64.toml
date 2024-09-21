@@ -1,0 +1,4 @@
+front = "what is base64?"
+back = "scheme that converts binary to text using 64 different ASCII symbols"
+id = "3a152007-17ca-4796-982d-f9974bac4783"
+dependencies = ["4338e461-6060-475e-b5f5-d905c01345d1"]

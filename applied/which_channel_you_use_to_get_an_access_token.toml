@@ -1,0 +1,4 @@
+front = "which channel you use to get an access token?"
+back = "the back channel"
+id = "75a99a54-f0b5-44b0-bb85-7457c7159d8e"
+dependencies = ["0eeda07b-beba-4f88-a79f-1b09869abe88", "8903b86d-79ea-40aa-89e7-fc70402b71a0"]

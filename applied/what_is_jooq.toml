@@ -1,0 +1,4 @@
+front = "what is jooq?"
+back = "java library that generates SQL and lets you build typesafe database queries"
+id = "ec22e5e8-d264-433e-94a6-c7f0b6460f3a"
+dependencies = ["6d5837b6-b6a1-41d9-bae1-07e47ab97f5f", "a1431ad0-8b2b-47ba-a1d6-a6746c28bce7"]

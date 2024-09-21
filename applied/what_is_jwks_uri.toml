@@ -1,0 +1,4 @@
+front = "what is jwks_uri?"
+back = "endpoint that provides a JSON Web Key Set"
+id = "ecc3e899-cb4c-4dd6-b48b-4114408df8c6"
+dependencies = ["c9e52dc6-f149-46db-bb4c-127cc02fc99b"]

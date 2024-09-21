@@ -1,0 +1,4 @@
+front = "what was normal before oauth?"
+back = "using http basic auth"
+id = "00453181-af41-48f1-8312-9cd9f750bf24"
+dependencies = ["0564fa1a-4dd2-41ab-bafe-d552de58443c"]

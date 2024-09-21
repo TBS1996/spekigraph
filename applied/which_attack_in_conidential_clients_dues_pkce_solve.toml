@@ -1,0 +1,4 @@
+front = "which attack in confidential clients does pkce solve?"
+back = "authorization code injection"
+id = "7b9c7101-2764-4b0f-9c9b-a9da4c3f340e"
+dependencies = ["0d58fedb-9a20-43e1-987c-88e55dfec255", "2d29b0e0-5166-4099-91f7-dbf56a1bf692", "72187a1f-0b87-4d56-89e7-75a0aebbee3b"]

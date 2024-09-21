@@ -1,0 +1,4 @@
+front = "what's the main downsides of http basic auth over modern oauth?"
+back = "it had toit had to ask the user for their password that it would send to other service"
+id = "337c8284-6041-4630-af0d-7429a826b603"
+dependencies = ["0564fa1a-4dd2-41ab-bafe-d552de58443c"]

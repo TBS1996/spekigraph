@@ -1,0 +1,4 @@
+front = "how are jwt encoded?"
+back = "base64"
+id = "d634e98e-93db-403e-897a-3c5f1d51c01a"
+dependencies = ["3a152007-17ca-4796-982d-f9974bac4783", "419fb60e-ab0b-495f-a16b-ebf4afac87e6"]

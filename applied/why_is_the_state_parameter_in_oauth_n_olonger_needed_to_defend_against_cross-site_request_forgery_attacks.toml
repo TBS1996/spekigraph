@@ -1,0 +1,4 @@
+front = "why is the state parameter in oauth n olonger needed to defend against cross-site request forgery attacks?"
+back = "because pkce now also provides this protection"
+id = "9c1b87dc-6eb8-4442-821b-6852e1d37282"
+dependencies = ["2d29b0e0-5166-4099-91f7-dbf56a1bf692", "5d1c0b37-35bd-49d9-af32-906f64440864", "9cc4af30-30fa-4022-9b1b-c75b43466513"]

@@ -1,0 +1,3 @@
+front = "whats the privacy concerns of using structured access tokens?"
+back = "The privacy concern with structured access tokens is that they often contain user information in cleartext (like in JWTs), which could expose sensitive data if intercepted or improperly handled."
+id = "3ad49d09-45c8-465a-9619-181563e24687"

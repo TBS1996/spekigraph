@@ -1,0 +1,4 @@
+front = "when the user gives the pkcde code challenge to the auth server what does it receive?"
+back = "a temporary authorization code"
+id = "1466345f-3069-46a6-a6a4-69f99834c78b"
+dependencies = ["72187a1f-0b87-4d56-89e7-75a0aebbee3b", "b84ec61e-2c73-4b75-a14a-904f49b64504"]

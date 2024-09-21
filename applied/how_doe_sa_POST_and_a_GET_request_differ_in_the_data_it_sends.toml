@@ -1,0 +1,4 @@
+front = "how doe sa POST and a GET request differ in the data it sends?"
+back = "POST request includes data in the request body "
+id = "a0a5c287-9ea2-469d-89db-4a82b1c05b77"
+dependencies = ["6c9ceccf-47db-440f-ac93-f3ec1dbc3e7c", "aa0147d5-ca0f-4d46-9f43-5cc771ce368a"]

@@ -1,0 +1,5 @@
+front = "what is the role of hydra at cogidp?"
+back = ""
+id = "808103ff-c02b-4c48-b0b3-5d17b0a43592"
+dependencies = ["0246e87f-4b49-48a8-93d9-b7fb9220871c", "92e3be82-0ed6-46bc-b089-be4d2e4ef769"]
+finished = false

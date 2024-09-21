@@ -1,0 +1,4 @@
+front = "what requirement that oauth2.0 dropped?"
+back = "signatures no longer being necessary"
+id = "7c8ac0fd-f8f0-49dd-86bf-6efe8b8fd04d"
+dependencies = ["7327e3da-995d-4ad9-b0c7-77379198eaad", "9cc4af30-30fa-4022-9b1b-c75b43466513"]

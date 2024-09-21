@@ -1,0 +1,4 @@
+front = "what is the pkce code verifier?"
+back = "a generated code"
+id = "5ae84a9c-68a3-4e0d-9fa5-254a1af2d9b2"
+dependencies = ["2d29b0e0-5166-4099-91f7-dbf56a1bf692"]

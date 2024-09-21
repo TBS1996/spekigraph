@@ -1,0 +1,4 @@
+front = "how do you create the pkce code challenge from the pkce code verifier?"
+back = "you hash it"
+id = "0cb167cc-356b-4018-9f82-0ff0eed02549"
+dependencies = ["03b7dd80-a38c-4614-9ea8-9e3466502d12", "2d29b0e0-5166-4099-91f7-dbf56a1bf692", "5ae84a9c-68a3-4e0d-9fa5-254a1af2d9b2", "b84ec61e-2c73-4b75-a14a-904f49b64504"]

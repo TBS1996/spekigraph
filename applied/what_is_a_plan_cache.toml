@@ -1,0 +1,4 @@
+front = "what is a plan cache?"
+back = "its a storage of previously executed SQL query execution plans"
+id = "44cff353-6f77-4248-9148-899341c40ecf"
+dependencies = ["a1431ad0-8b2b-47ba-a1d6-a6746c28bce7"]

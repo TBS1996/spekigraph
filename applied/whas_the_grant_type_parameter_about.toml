@@ -1,0 +1,4 @@
+front = "whas the grant_type parameter about?"
+back = "it specifies the method by which the client is requesting an access token from the auth server"
+id = "dd3553cd-bd3a-42eb-a412-0e4eda9160f6"
+dependencies = ["d0553a15-ca51-49d7-b25b-1f3b734b6c6c"]

@@ -1,0 +1,4 @@
+front = "whats the aud key in the id token jwt?"
+back = "who the token is for (the resource server)"
+id = "bbf75de5-1b1e-4c31-8c70-8420668a2627"
+dependencies = ["419fb60e-ab0b-495f-a16b-ebf4afac87e6", "7b1f3dfd-1318-4e2d-854d-8a44b2ede8dc", "8903b86d-79ea-40aa-89e7-fc70402b71a0"]

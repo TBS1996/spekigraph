@@ -1,0 +1,4 @@
+front = "which library sessions api uses to validate sql statements?"
+back = "sqlx"
+id = "1c66ad37-139b-414f-85ea-a4b6a99bf45a"
+dependencies = ["d1c58b44-f250-4537-b20a-dc59b8a28fc2"]

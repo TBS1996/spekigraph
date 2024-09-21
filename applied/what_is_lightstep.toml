@@ -1,0 +1,4 @@
+front = "what is lightstep?"
+back = "an observability platform to visualize tracing"
+id = "27ab8ade-8ef4-44e4-a7e8-1aa8e7716866"
+dependencies = ["9d48580a-b0c3-4d7d-8845-bb0d95d676c8"]

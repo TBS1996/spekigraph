@@ -1,0 +1,4 @@
+front = "what is the SQL Query Engine?"
+back = "a process that interprets SQL statements and executes them"
+id = "edecfbb7-443f-44c8-8656-56271dc45455"
+dependencies = ["a1431ad0-8b2b-47ba-a1d6-a6746c28bce7"]

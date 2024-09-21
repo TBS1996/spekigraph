@@ -1,0 +1,4 @@
+front = "example of scope request in oauth auth flow?"
+back = "scope=photos"
+id = "fbf756cf-fcd1-45d1-a99a-2f0c6b80124b"
+dependencies = ["9cc4af30-30fa-4022-9b1b-c75b43466513"]

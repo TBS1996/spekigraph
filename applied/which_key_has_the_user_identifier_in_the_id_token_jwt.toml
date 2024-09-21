@@ -1,0 +1,4 @@
+front = "which key has the user identifier in the id token jwt?"
+back = "sub"
+id = "1e7fd709-d5c1-4ce6-92f9-d0e3a7a0cd00"
+dependencies = ["1bd9e495-3152-447c-ad3f-0f582571d434", "419fb60e-ab0b-495f-a16b-ebf4afac87e6"]

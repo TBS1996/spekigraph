@@ -1,0 +1,4 @@
+front = "what kinda requests replaced AJAX requests?"
+back = "fetch requests"
+id = "ecaebbbf-5671-4e34-b1fe-5a39d0c1f8fd"
+dependencies = ["3c279bde-8521-4e51-bdf3-47f61aed4326", "6af7ba48-abd2-4282-bb81-c19a3fa96bf5"]

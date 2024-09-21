@@ -1,0 +1,4 @@
+front = "what data will be sent back to the user with the redirect_uri?the authorization code and the state value"
+back = ""
+id = "07000c94-922d-4cea-bbf4-8452848128d8"
+finished = false

@@ -1,0 +1,4 @@
+front = "how do you use the refresh token to get anew access token?"
+back = "you send a similar POST request to the token endpoint, but the grant_type is refresh token and then you include the refresh token"
+id = "6294d3e4-ed3e-41cf-8cc4-3135b15eedc9"
+dependencies = ["49ada363-841d-4827-8b9d-74e12d76e7c5", "7c2d3eae-d5ff-4160-895d-44d9a58212e0", "aa0147d5-ca0f-4d46-9f43-5cc771ce368a", "dd3553cd-bd3a-42eb-a412-0e4eda9160f6"]

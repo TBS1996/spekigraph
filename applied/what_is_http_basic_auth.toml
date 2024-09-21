@@ -1,0 +1,4 @@
+front = "what is http basic auth?"
+back = "a client sending the username and password to the api"
+id = "0564fa1a-4dd2-41ab-bafe-d552de58443c"
+dependencies = ["4efb5601-9c46-4ccf-8563-071167838503", "9620a4a0-5050-42bc-a0a4-485af836c88b"]

@@ -1,0 +1,4 @@
+front = "what's gRPC?"
+back = "a modern RPC framework created by google"
+id = "2bde2643-f0c9-4c83-bffa-0139ad56511d"
+dependencies = ["3dab37dc-268f-4266-84c7-06404b1f5fd4"]

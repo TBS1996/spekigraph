@@ -1,0 +1,4 @@
+front = "what is the back channel in oauth?"
+back = "data being transmitted over https"
+id = "0eeda07b-beba-4f88-a79f-1b09869abe88"
+dependencies = ["542242e3-962d-4269-bbcc-509a925d330e", "9cc4af30-30fa-4022-9b1b-c75b43466513"]

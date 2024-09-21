@@ -1,0 +1,4 @@
+front = "which is more modern between AJAX and fetch request?"
+back = "fetch requests"
+id = "2485b813-b997-4e83-95a8-ec1d0967a79e"
+dependencies = ["3c279bde-8521-4e51-bdf3-47f61aed4326", "6af7ba48-abd2-4282-bb81-c19a3fa96bf5"]

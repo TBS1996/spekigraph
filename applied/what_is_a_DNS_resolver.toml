@@ -1,0 +1,4 @@
+front = "what is a DNS resolver?"
+back = "a server that translates domain names into ip addresses"
+id = "2c3b627b-a989-42ab-967d-7560094731c4"
+dependencies = ["3faf8f5a-d09c-4a79-9753-b19db96f1641", "fdcb3d87-ee80-4232-864d-74a985368438"]

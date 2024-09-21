@@ -1,0 +1,4 @@
+front = "what does the oauth spec call the device?"
+back = "user agent"
+id = "cb64db73-e786-47da-bd4a-f6b23d2ee383"
+dependencies = ["9cc4af30-30fa-4022-9b1b-c75b43466513"]

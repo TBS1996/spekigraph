@@ -1,0 +1,4 @@
+front = "what is THP short for (linux) "
+back = " transparent hugepage"
+id = "313ba6bd-2018-4df5-adc6-e10d22d34f40"
+dependencies = ["93cd913a-9fc8-45d5-9e7a-7f8e2e738151"]

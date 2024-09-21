@@ -1,0 +1,4 @@
+front = "what defines whether a client is confidential or public in oauth?"
+back = "whether it has credentials it can use as authentication during oauth flow"
+id = "fb37cc63-4942-4e4e-8149-dd90acd2a97f"
+dependencies = ["30c4b10b-16e5-4c6b-8eb5-afeb0a30803c", "9cc4af30-30fa-4022-9b1b-c75b43466513"]

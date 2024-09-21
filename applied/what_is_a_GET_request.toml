@@ -1,0 +1,4 @@
+front = "what is a GET request?"
+back = "an http method to retrieve data from a server wthout modifying them"
+id = "6c9ceccf-47db-440f-ac93-f3ec1dbc3e7c"
+dependencies = ["4efb5601-9c46-4ccf-8563-071167838503"]

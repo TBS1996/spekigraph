@@ -1,0 +1,4 @@
+front = "what kinda http method is used for getting access token?"
+back = "POST"
+id = "0b2a450b-9630-4df6-b4f1-6e56318ea575"
+dependencies = ["3401682f-f3e5-4068-8a73-726340b81582", "aa0147d5-ca0f-4d46-9f43-5cc771ce368a"]

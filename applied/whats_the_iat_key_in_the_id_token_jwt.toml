@@ -1,0 +1,4 @@
+front = "whats the iat key in the id token jwt?"
+back = "issued at, the time the jwt was created"
+id = "0b2f1ca5-0326-4f59-8bcd-4f6519a1701f"
+dependencies = ["1bd9e495-3152-447c-ad3f-0f582571d434", "419fb60e-ab0b-495f-a16b-ebf4afac87e6"]

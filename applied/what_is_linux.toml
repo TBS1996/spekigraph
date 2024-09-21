@@ -1,0 +1,4 @@
+front = "what is linux?"
+back = "open source operating system kernel"
+id = "8990f140-ab4f-413e-8d1a-bc0486b7ce1a"
+dependencies = ["02be031e-3934-4974-ad74-38a22c5ba326"]

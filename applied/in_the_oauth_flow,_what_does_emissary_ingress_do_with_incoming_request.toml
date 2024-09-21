@@ -1,0 +1,4 @@
+front = "in the oauth flow, what does emissary ingress do with incoming request?"
+back = "it forwards a copy to gandalf"
+id = "18f90e9e-c477-4732-a8ec-06fc13075a3d"
+dependencies = ["19bff044-4423-4a09-aa23-6b5818dcefe8", "9cc4af30-30fa-4022-9b1b-c75b43466513", "d19475c5-c200-4635-8e20-b0c0181619ed"]

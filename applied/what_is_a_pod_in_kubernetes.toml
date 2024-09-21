@@ -1,0 +1,4 @@
+front = "what is a pod in kubernetes?"
+back = "the smallest deployable unit, representing one or more containers that run together"
+id = "c1aa197e-04d5-4d6d-b76b-e8c64951f08b"
+dependencies = ["36690235-1f19-4149-8d80-96a40b036b79", "e2af5fae-467c-4ebf-aa19-981cd1a15035"]

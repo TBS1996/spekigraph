@@ -1,0 +1,4 @@
+front = "what is TLS traffic?"
+back = " data transmitted over the internet using Transport Layer Security protocol"
+id = "2475be62-eeae-4e85-8419-0beabbbc2f97"
+dependencies = ["51ba55c8-c663-42c2-9bd2-829dd5e4de90"]

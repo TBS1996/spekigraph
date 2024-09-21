@@ -1,0 +1,4 @@
+front = "what are the three parts of the JWT?"
+back = "header, payload, and signature"
+id = "9de5e6a1-281f-4339-9aa2-d747ceff92a5"
+dependencies = ["419fb60e-ab0b-495f-a16b-ebf4afac87e6"]

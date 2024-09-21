@@ -1,0 +1,4 @@
+front = "what is the token endpoint in oauth?"
+back = "the endpoint we use to get an access token"
+id = "7c2d3eae-d5ff-4160-895d-44d9a58212e0"
+dependencies = ["8903b86d-79ea-40aa-89e7-fc70402b71a0", "9cc4af30-30fa-4022-9b1b-c75b43466513"]

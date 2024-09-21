@@ -1,0 +1,4 @@
+front = "what is aramco?"
+back = "the state-owned oil company of saudi arabia"
+id = "a53417fa-49c9-4abf-b9fe-044fc3032a9c"
+dependencies = ["b34dd070-9b7b-471e-a765-b4bdd98db99a"]

@@ -1,0 +1,4 @@
+front = "what is the resource server in oauth?"
+back = "The Resource Server in OAuth is the server that hosts protected resources"
+id = "7b1f3dfd-1318-4e2d-854d-8a44b2ede8dc"
+dependencies = ["9cc4af30-30fa-4022-9b1b-c75b43466513"]

@@ -1,0 +1,4 @@
+front = "what is an authorization code?"
+back = "code given from oauth endpoint to get an access token"
+id = "72187a1f-0b87-4d56-89e7-75a0aebbee3b"
+dependencies = ["8903b86d-79ea-40aa-89e7-fc70402b71a0", "9cc4af30-30fa-4022-9b1b-c75b43466513"]

@@ -1,0 +1,4 @@
+front = "what does the oauth spec call the user?"
+back = "the resource owner"
+id = "dfbb178d-828d-46cb-8a81-afcafc7cfd00"
+dependencies = ["9cc4af30-30fa-4022-9b1b-c75b43466513", "d3be694c-c1e3-46a1-8904-2ebe0dc3ce15"]

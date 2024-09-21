@@ -1,0 +1,4 @@
+front = "what is an audit sink?"
+back = "An audit sink is a mechanism or endpoint used to capture and store audit logs or events"
+id = "36547f40-0fce-4973-aecc-ad80a1b4ba88"
+dependencies = ["1d771073-373b-45e2-aa3c-39aef26fd52b", "5a612710-fe21-4ba4-bec6-346029ea2a88"]

@@ -1,0 +1,4 @@
+front = "what is mutual TLS?"
+back = "authentication process where both the client and hte server authentiate ecah other using digital certificates over a TLS connection"
+id = "9685eb6f-e3a1-4a23-a771-c93a339530a1"
+dependencies = ["1aff7f67-bc5e-4d37-b826-83496555f0bf", "51ba55c8-c663-42c2-9bd2-829dd5e4de90"]

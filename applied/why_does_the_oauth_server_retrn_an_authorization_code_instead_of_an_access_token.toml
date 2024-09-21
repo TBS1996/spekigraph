@@ -1,0 +1,4 @@
+front = "why does the oauth server retrn an authorization code instead of an access token?"
+back = "cause its sent through the front channel"
+id = "f09e77a8-4f7d-47ae-bb13-d681ee389579"
+dependencies = ["8903b86d-79ea-40aa-89e7-fc70402b71a0", "a979788e-3056-4b47-80d0-06867b443595"]

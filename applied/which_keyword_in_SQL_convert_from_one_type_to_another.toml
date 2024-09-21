@@ -1,0 +1,4 @@
+front = "which keyword in SQL convert from one type to another?"
+back = "CAST"
+id = "0d3db989-cf1b-4d8f-97e4-e185d039c755"
+dependencies = ["a1431ad0-8b2b-47ba-a1d6-a6746c28bce7"]

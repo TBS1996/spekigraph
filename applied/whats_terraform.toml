@@ -1,0 +1,4 @@
+front = "whats terraform?"
+back = "tool to provision infrastructure declaratively"
+id = "fed90da7-8d3e-4cee-ac75-3b892399c545"
+dependencies = ["aa79559d-7799-4ebf-9a30-11da782c3709"]

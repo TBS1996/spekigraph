@@ -1,0 +1,4 @@
+front = "what is the redirect_uri?"
+back = "the location of the client that the authorization server will send the user back to after logging in"
+id = "c3815748-e71c-44b1-a6cb-380e0d0406d3"
+dependencies = ["63b482fd-d85d-4ec6-b9cc-3a82c7202d7a"]

@@ -1,0 +1,4 @@
+front = "whats the value of the grant_type when you request access token?"
+back = "authorization_code"
+id = "3102b320-8c4c-4f9a-abb1-b6ff7c845346"
+dependencies = ["8903b86d-79ea-40aa-89e7-fc70402b71a0", "dd3553cd-bd3a-42eb-a412-0e4eda9160f6"]

@@ -1,0 +1,4 @@
+front = "how to get only the id token and not the access token too?"
+back = "put response_type=id_token"
+id = "538cb4ac-491b-41df-a369-0512db94e26b"
+dependencies = ["1bd9e495-3152-447c-ad3f-0f582571d434", "3401682f-f3e5-4068-8a73-726340b81582", "7ebcafad-e8d3-4c8b-81c7-b8a01e4c60d3"]

@@ -1,0 +1,4 @@
+front = "what does it mean for TLS traffic to be terminated?"
+back = "it means decrypting incoming TLS traffic before passing it as plaintext to the backend"
+id = "0b7e4b1c-c3f1-4692-93d7-94c0b3bfdab2"
+dependencies = ["2475be62-eeae-4e85-8419-0beabbbc2f97"]

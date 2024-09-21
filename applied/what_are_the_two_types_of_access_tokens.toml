@@ -1,0 +1,4 @@
+front = "what are the two types of access tokens?"
+back = "structured and reference tokens"
+id = "4b6b4d6a-c9f3-4fee-954a-1873788cc32c"
+dependencies = ["14b0c75d-9b8d-497a-90c0-7c2ce55df121", "5fd94595-b43b-4737-a5d0-ffb170559d13"]

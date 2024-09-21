@@ -1,0 +1,4 @@
+front = "what do we use to monitor metrics?"
+back = "grafana"
+id = "f14e92ed-62b3-4ef0-ad26-7bfc2c8ecf9c"
+dependencies = ["0a5f3fef-8032-4a24-a09b-f83bc094ddde"]

@@ -1,0 +1,3 @@
+front = "what's a database pool?"
+back = "a pool of pre-created db conections that applications can reuse instead of opening and closning connections repeatedly"
+id = "02ba5350-afb7-4c46-9b94-51ca1a2ce875"

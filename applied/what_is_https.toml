@@ -1,0 +1,4 @@
+front = "what is https?"
+back = "an extension of http that uses TLS to encrypt data exchanged"
+id = "542242e3-962d-4269-bbcc-509a925d330e"
+dependencies = ["4efb5601-9c46-4ccf-8563-071167838503", "51ba55c8-c663-42c2-9bd2-829dd5e4de90"]

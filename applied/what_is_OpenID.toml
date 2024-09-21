@@ -1,0 +1,4 @@
+front = "what is OpenID?"
+back = "an authentication protocol that allows users to log into multiple websites using a single identity provider"
+id = "f073a171-f9f0-41a7-ba8f-952b17f4877b"
+dependencies = ["115152a2-3525-48d0-bb12-79516543d366"]

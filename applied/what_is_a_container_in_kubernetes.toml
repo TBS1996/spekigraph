@@ -1,0 +1,4 @@
+front = "what is a container in kubernetes?"
+back = "a lightweight standalone executable package that includes everything needed to run a specific application"
+id = "e2af5fae-467c-4ebf-aa19-981cd1a15035"
+dependencies = ["36690235-1f19-4149-8d80-96a40b036b79"]

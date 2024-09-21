@@ -1,0 +1,4 @@
+front = "what is ory hydra?"
+back = "an OAuth2.0 and OpenID connect server"
+id = "92e3be82-0ed6-46bc-b089-be4d2e4ef769"
+dependencies = ["9cc4af30-30fa-4022-9b1b-c75b43466513", "f073a171-f9f0-41a7-ba8f-952b17f4877b"]

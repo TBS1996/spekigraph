@@ -1,0 +1,4 @@
+front = "what is ktor?"
+back = "framework for making web apps and microservices in kotlin"
+id = "9086cc1d-57c1-4925-95a0-8f2c3ab2da79"
+dependencies = ["55f45a9d-4973-459d-94e1-c7a2ad50b82d", "5e0711d8-f465-4556-92b2-26a3bb41a69a"]

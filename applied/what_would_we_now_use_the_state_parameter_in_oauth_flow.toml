@@ -1,0 +1,4 @@
+front = "what would we now use the state parameter in oauth flow?"
+back = "specifing application specific state"
+id = "9e047c08-4667-4c83-815e-810f6f048cdd"
+dependencies = ["5d1c0b37-35bd-49d9-af32-906f64440864", "9cc4af30-30fa-4022-9b1b-c75b43466513"]

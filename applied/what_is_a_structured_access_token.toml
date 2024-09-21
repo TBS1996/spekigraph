@@ -1,0 +1,4 @@
+front = "what is a structured access token?"
+back = "an access token where the string itself contains some kind of data/format"
+id = "5fd94595-b43b-4737-a5d0-ffb170559d13"
+dependencies = ["8903b86d-79ea-40aa-89e7-fc70402b71a0"]

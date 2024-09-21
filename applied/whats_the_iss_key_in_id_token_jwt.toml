@@ -1,0 +1,4 @@
+front = "whats the iss key in id token jwt?"
+back = "the issuer who gave the token"
+id = "91a8ea24-823c-41cc-97fc-b3bf2405a22b"
+dependencies = ["1bd9e495-3152-447c-ad3f-0f582571d434", "419fb60e-ab0b-495f-a16b-ebf4afac87e6"]

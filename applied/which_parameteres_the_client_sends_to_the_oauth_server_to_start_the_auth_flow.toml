@@ -1,0 +1,4 @@
+front = "which parameteres the client sends to the oauth server to start the auth flow?"
+back = "response_type, client_id, redirect_uri, scope, state, code_challenge, code_challenge_method"
+id = "7c048c4e-2c45-4f4f-bc65-48f2cd524a00"
+dependencies = ["7ebcafad-e8d3-4c8b-81c7-b8a01e4c60d3"]

@@ -1,0 +1,4 @@
+front = "what does the client do with the pkcde code verifier in the start of the oauth flow?"
+back = "it hashes it, then sends it as a url parameter"
+id = "61af2fbd-181b-42e7-be91-52309c6d0760"
+dependencies = ["2d29b0e0-5166-4099-91f7-dbf56a1bf692", "5ae84a9c-68a3-4e0d-9fa5-254a1af2d9b2", "9cc4af30-30fa-4022-9b1b-c75b43466513"]

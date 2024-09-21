@@ -1,0 +1,4 @@
+front = "what is the state parameter in oauth?"
+back = "it's used to keep state when redirect and prevent CSRF attacks"
+id = "5d1c0b37-35bd-49d9-af32-906f64440864"
+dependencies = ["81ad58f8-93c4-4c05-9bb9-e60aa32994d0"]

@@ -1,0 +1,4 @@
+front = "why do we use the front channel in oauth?"
+back = "to ensure the user consented to the request which theyd have to do through the browser"
+id = "aee3dc1d-9c8c-4c6f-aae2-5c54fb7f43d1"
+dependencies = ["9cc4af30-30fa-4022-9b1b-c75b43466513", "a979788e-3056-4b47-80d0-06867b443595"]

@@ -1,0 +1,4 @@
+front = "what format are id tokens as?"
+back = "as JWT"
+id = "05703025-bb91-4774-bf7d-e3ff4987ae4f"
+dependencies = ["1bd9e495-3152-447c-ad3f-0f582571d434", "419fb60e-ab0b-495f-a16b-ebf4afac87e6"]

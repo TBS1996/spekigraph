@@ -1,0 +1,4 @@
+front = "whats the most common format of structured access tokens?"
+back = "as a JWT"
+id = "1e58476e-6a44-4a12-84a5-b5e6a951e980"
+dependencies = ["419fb60e-ab0b-495f-a16b-ebf4afac87e6", "5fd94595-b43b-4737-a5d0-ffb170559d13"]

@@ -1,0 +1,4 @@
+front = "which endpoint you use to get access token?"
+back = "the token endpoint of the auth server"
+id = "63930664-01c5-4f47-962f-d1aff020c96b"
+dependencies = ["63b482fd-d85d-4ec6-b9cc-3a82c7202d7a", "7c2d3eae-d5ff-4160-895d-44d9a58212e0", "8903b86d-79ea-40aa-89e7-fc70402b71a0"]

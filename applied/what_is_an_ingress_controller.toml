@@ -1,0 +1,4 @@
+front = "what is an ingress controller?"
+back = "a kubernetes component which manages external access to services within a cluster"
+id = "1e36430a-b5b6-48fe-b3a6-43daf203ac2e"
+dependencies = ["36690235-1f19-4149-8d80-96a40b036b79"]

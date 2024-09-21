@@ -1,0 +1,4 @@
+front = "whats hte most normal way to get an id token from an auth server?"
+back = "simply put openid in the scope"
+id = "551b0a50-3f0c-430c-a23f-07b5ef071818"
+dependencies = ["1bd9e495-3152-447c-ad3f-0f582571d434", "63b482fd-d85d-4ec6-b9cc-3a82c7202d7a"]

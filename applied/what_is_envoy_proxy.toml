@@ -1,0 +1,4 @@
+front = "what is envoy proxy?"
+back = "an edge and service proxy designed for cloud-native applications"
+id = "45152621-27cd-4bb0-8d42-b9a5a385da0d"
+dependencies = ["06c4c77c-bf4c-480a-b1d2-5571ebd65014", "865d3e06-80db-40ff-b0e5-21a14223c387"]

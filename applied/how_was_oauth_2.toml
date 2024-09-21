@@ -1,0 +1,4 @@
+front = "how was oauth 2.0 able to stop using signatures?"
+back = "by relying on https to handle the security of communications"
+id = "d4f737c2-3d5e-42d6-9e66-085a96c85631"
+dependencies = ["7327e3da-995d-4ad9-b0c7-77379198eaad", "7892b0e0-b058-49f2-bce0-30ee2cad10dc", "9cc4af30-30fa-4022-9b1b-c75b43466513", "e1eed496-2c4b-4397-97f0-2a4b8861a8db"]

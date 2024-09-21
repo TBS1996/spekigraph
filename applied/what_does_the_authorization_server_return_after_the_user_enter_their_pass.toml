@@ -1,0 +1,4 @@
+front = "what does the authorization server return after the user enter their pass?"
+back = "an authorization code"
+id = "ce6e21f7-cbda-4ef5-9690-29049cdd22ce"
+dependencies = ["63b482fd-d85d-4ec6-b9cc-3a82c7202d7a", "72187a1f-0b87-4d56-89e7-75a0aebbee3b"]
